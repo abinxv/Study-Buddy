@@ -1,1 +1,5 @@
 chem proj|chem|mot|group proect, make sure u finish your part|Wed May 14 11:09:30 2025|2025-05-20 12:00|8690
+bee hw|bee|dc machine|solve numericals from class notes|Wed May 14 11:12:00 2025|2025-05-22 09:00|7430
+ds prep|ds|stl|revise vectors and maps before quiz|Wed May 14 11:15:00 2025|2025-05-23 18:00|9720
+denm sheet|denm|interpolation|complete interpolation worksheet|Wed May 14 11:18:00 2025|2025-05-21 20:00|8580
+chem flashcards|chem|aspirin|make flashcards for aspirin topic|Wed May 14 11:20:00 2025|2025-05-24 10:00|9840
