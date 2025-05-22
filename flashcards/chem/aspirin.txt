@@ -1,0 +1,16 @@
++--------------------------------------------------------------+
+|                          [ ASPIRIN ]                         |
+|                                                              |
+| - Aspirin (acetylsalicylic acid) is a widely used medication |
+|   for pain relief and reducing inflammation.                 |
+| - It works by inhibiting an enzyme called COX (cyclooxygenase)|
+|   involved in the production of prostaglandins.               |
+| - Uses:                                                      |
+|    > Pain relief (headaches, toothaches, etc.).              |
+|    > Reduces fever.                                           |
+|    > Anti-inflammatory (for arthritis, etc.).                |
+| - Can cause side effects like stomach irritation or ulcers   |
+|   if overused.                                                |
+| - Aspirin is also used in preventing blood clots and heart   |
+|   attacks.                                                    |
++--------------------------------------------------------------+

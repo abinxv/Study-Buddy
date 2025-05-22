@@ -1,0 +1,16 @@
++-------------------------------------------------------------+
+|       **STL (Standard Template Library)**                   |
+|                                                             |
+| - **STL** is a collection of template classes               |
+|   and functions that provide **generic** data               |
+|   structures and algorithms.                                |
+| - Major components of STL:                                  |
+|    - **Containers**: Data structures like                   |
+|      vectors, lists, and maps.                              |
+|    - **Algorithms**: Functions like sort, find,             |
+|      and merge.                                             |
+|    - **Iterators**: Used to iterate over containers.        |
+| - **Benefits**: Reusable, efficient, and well-tested.       |
+| - Widely used in C++ programming for clean and              |
+|   optimized code.                                           |
++-------------------------------------------------------------+

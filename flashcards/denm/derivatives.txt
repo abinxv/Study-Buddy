@@ -1,0 +1,15 @@
++--------------------------------------------------------------+
+|            [ IMPORTANT DERIVATIVES AND INTEGRALS ]            |
+|                                                              |
+| - Derivatives represent the rate of change of a function.   |
+| - Common rules:                                              |
+|    > Power Rule: d/dx(x^n) = n*x^(n-1)                        |
+|    > Product Rule: d/dx(f(x)*g(x)) = f'(x)*g(x) + f(x)*g'(x)|
+| - Integrals represent the area under a curve or accumulated  |
+|   quantities.                                                 |
+| - Common integrals:                                          |
+|    > ∫x^n dx = (x^(n+1))/(n+1) + C                           |
+|    > ∫e^x dx = e^x + C                                        |
+| - Derivatives and integrals are fundamental in calculus and  |
+|   solving real-world problems.                                |
++--------------------------------------------------------------+

@@ -1,0 +1,16 @@
++--------------------------------------------------------------+
+|              [ MOLECULAR ORBITAL THEORY (MOT) ]               |
+|                                                              |
+| - MOT explains the behavior of electrons in molecules.       |
+| - Electrons occupy molecular orbitals formed by the          |
+|   combination of atomic orbitals.                             |
+| - The theory introduces bonding and antibonding orbitals.     |
+|    > Bonding orbitals: Lower energy, stable.                  |
+|    > Antibonding orbitals: Higher energy, unstable.           |
+| - Electrons fill molecular orbitals from lowest to highest   |
+|   energy.                                                     |
+| - The number of bonding and antibonding electrons determines  |
+|   the bond order:                                             |
+|    > Bond order = (Bonding electrons - Antibonding electrons)/2|
+| - MOT is used to explain magnetic properties and bond strength.|
++--------------------------------------------------------------+

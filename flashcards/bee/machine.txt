@@ -1,0 +1,15 @@
++--------------------------------------------------------------+
+|                        [ DC MACHINE ]                        |
+|                                                              |
+| - A DC machine converts electrical energy to mechanical      |
+|   energy or vice versa.                                      |
+| - Main components:                                           |
+|    > Stator: Stationary part with field windings.            |
+|    > Rotor: Rotating part, connected to the shaft.           |
+| - Works based on Faraday's law of electromagnetic induction. |
+| - Commutator: Converts alternating current to direct current.|
+| - Types:                                                     |
+|    > DC Motor: Electrical to mechanical energy.              |
+|    > DC Generator: Mechanical to electrical energy.          |
+| - Used in electric vehicles, wind turbines, and more.        |
++--------------------------------------------------------------+

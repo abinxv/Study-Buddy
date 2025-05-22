@@ -1,0 +1,14 @@
++--------------------------------------------------------------+
+|                        [ DC GENERATOR ]                      |
+|                                                              |
+| - A DC Generator converts mechanical energy into electrical  |
+|   energy through electromagnetic induction.                  |
+| - The armature rotates in a magnetic field, inducing voltage.|
+| - Commutator: It ensures the output is DC by reversing the   |
+|   current in the armature windings as it rotates.            |
+| - Key applications:                                          |
+|    > Power generation.                                       |
+|    > Battery charging.                                       |
+|    > Industrial machinery.                                   |
+| - DC Generators provide a constant output voltage.           |
++--------------------------------------------------------------+

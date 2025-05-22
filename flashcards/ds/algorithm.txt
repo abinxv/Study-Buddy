@@ -1,0 +1,16 @@
++------------------------------------------------------------+
+|                 **Algorithm Analysis**                     |
+|                                                            |
+| - **Algorithm Analysis** evaluates the time and            |
+|   space complexity of algorithms.                          |
+| - Two major factors:                                       |
+|    - **Time Complexity**: How the algorithm’s              |
+|      execution time increases with input size.             |
+|    - **Space Complexity**: How the algorithm’s             |
+|      memory requirements grow with input size.             |
+| - **Big-O Notation**: Commonly used to describe            |
+|   performance (e.g., O(n), O(log n), etc.).                |
+| - Helps in choosing the most efficient algorithm           |
+|   for a given problem .                                    |
+| - Important for optimizing software performance.           |
++------------------------------------------------------------+

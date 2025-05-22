@@ -1,0 +1,15 @@
++--------------------------------------------------------------+
+|                          [ FUSES ]                           |
+|                                                              |
+| - A fuse is a safety device used to protect electrical       |
+|   circuits from overcurrent.                                 |
+| - It consists of a metal wire or filament that melts when    |
+|   the current exceeds a safe limit.                          |
+| - How it works:                                              |
+|    > When the current is too high, the fuse wire melts,      |
+|      breaking the circuit and preventing damage.             |
+| - Types of fuses:                                            |
+|    > Cartridge Fuse: Used in home circuits.                  |
+|    > Plug Fuse: Often found in appliance circuits.           |
+| - Fuses are simple, cost-effective, and easy to replace.     |
++--------------------------------------------------------------+

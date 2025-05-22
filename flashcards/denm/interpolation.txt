@@ -1,0 +1,15 @@
++--------------------------------------------------------------+
+| 📐 **Interpolation Formulae** 📐                            |
+|                                                              |
+| - **Interpolation** is the process of estimating values      |
+|   between known data points.                                 |
+| - Common methods:                                            |
+|    ▪ **Linear Interpolation**: Assumes a straight line       |
+|      between two points.                                     |
+|    ▪ **Lagrange Interpolation**: Uses polynomials to estimate|
+|      values.                                                 |
+|    ▪ **Newton's Divided Difference**: A method based on      |
+|      successive differences.                                 |
+| - Interpolation is used in numerical analysis, graph plotting|
+|   📊, and data estimation.                                   |
++--------------------------------------------------------------+

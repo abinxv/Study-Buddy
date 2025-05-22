@@ -1,0 +1,27 @@
++--------------------------------------------------------------+
+| 📚 **Importance of Tests in Infinite Series** 📚             |
+|                                                              |
+| - **Tests for convergence** are crucial to determine if an   |
+|   infinite series sums to a finite value or diverges 🔄.     |
+| - Common tests include **Cauchy's Test**, **D'Alembert's Test**|
+|   and **Comparison Test** 🔍.                                |
+|                                                              |
+| **Cauchy's Convergence Test**:                               |
+|    ▪ Helps to determine if a series converges by examining   |
+|      the limit of its partial sums 💯.                       |
+|    ▪ If the sequence of partial sums tends to a finite value,|
+|      the series converges.                                   |
+|                                                              |
+| **D'Alembert's Ratio Test**:                                 |
+|    ▪ Uses the ratio of consecutive terms to check convergence|
+|      or divergence.                                          |
+|    ▪ If lim(n → ∞) (a_{n+1} / a_n) < 1, the series converges.|
+|    ▪ If the ratio is greater than 1, the series diverges. 📉  |
+|                                                              |
+| **Comparison Test**:                                         |
+|    ▪ Compares the given series with a known convergent or    |
+|      divergent series 📊.                                    |
+|    ▪ If the given series is smaller than a convergent series,|
+|      it converges.                                           |
+|    ▪ If it's larger than a divergent series, it diverges.    |
++--------------------------------------------------------------+

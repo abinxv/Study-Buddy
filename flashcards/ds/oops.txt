@@ -1,0 +1,21 @@
++-------------------------------------------------------------+
+|        **Object-Oriented Programming (OOP)**                |
+|                                                             |
+| - **OOP** is a programming paradigm based on                |
+|   the concept of objects.                                   |
+| - Core principles of OOP:                                   |
+|    - **Encapsulation**: Wrapping data and                   |
+|      methods into a single unit (class).                    |
+|    - **Inheritance**: Reusing code by inheriting            |
+|      properties from another class.                         |
+|    - **Polymorphism**: Objects behaving                     |
+|      differently based on their data type.                  |
+|    - **Abstraction**: Hiding complex details                |
+|      from the user and showing only essential               |
+|      features.                                              |
+| - OOP promotes code reuse, scalability, and                 |
+|   easier maintenance.                                       |
+|                                                             |
+| **Applications**: Software development, game                |
+| programming, and more!                                      |
++-------------------------------------------------------------+

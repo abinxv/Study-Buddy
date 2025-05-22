@@ -1,0 +1,13 @@
++--------------------------------------------------------------+
+|                  [ HARDNESS OF WATER ]                       |
+|                                                              |
+| - Water Hardness refers to the concentration of dissolved    |
+|   minerals, mainly calcium (Ca²⁺) and magnesium (Mg²⁺).      |
+| - Hard water forms scales in pipes and appliances.           |
+| - Types of Hardness:                                         |
+|    > Temporary Hardness: Caused by dissolved carbonates.     |
+|    > Permanent Hardness: Caused by dissolved sulphates       |
+|      and chlorides.                                          |
+| - Hard water can be softened using methods like ion exchange.|
+| - Hardness is measured in ppm (parts per million) or mg/L.   |
++--------------------------------------------------------------+
